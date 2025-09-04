@@ -1,0 +1,4 @@
+FROM redis:7-alpine
+
+ENV REDIS_USER = admin
+ENV REDIS_PASSWORD = 123
