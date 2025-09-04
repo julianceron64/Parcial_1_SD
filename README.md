@@ -1,4 +1,4 @@
-<img width="942" height="280" alt="image" src="https://github.com/user-attachments/assets/e6673e5c-1a5a-4959-8f96-f1b49ad108a9" /># Parcial_1_SD
+
 
 #PUNTO 1
 
